@@ -1,0 +1,3 @@
+- 👋 Hola, yo soy @gerardo281197TKR - Gerardo Luevanos
+- 👀 Estoy interesado en aprender diferentes lenguajes de programación, tanto en Front-en como en Back-end
+- 🌱 Actualmente soy Project Success Manager y Desarrollador Full-Stack, trabajando principalmente con Lavarel y Vue, Node y React, Python REST con Flask
